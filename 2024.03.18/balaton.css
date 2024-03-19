@@ -79,6 +79,8 @@ figcaption{
 
 blockquote{
     margin: 5px 25px;
+    internal margin: 10px;
+    font-size : 90 
     border-left: 15px solid rgb(222,226,230);
     background-color: rgba(222,226,230,35%);
     font-style: italic;
@@ -90,6 +92,7 @@ blockquote{
     list-style-type: none;
     padding-left: 0px;
     margin-left: 0px;
+    text-align: right;
 }
 
 #halLista li {
